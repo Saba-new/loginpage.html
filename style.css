@@ -1,0 +1,11 @@
+h1{
+    font-size:60px;
+    border-style:solid;
+    text-shadow: 3px 5px 5px;
+}
+#odd{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight:bold;
+    font-size:1.5em;
+   display: inline-block;
+}
